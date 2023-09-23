@@ -27,10 +27,10 @@ const About = () => {
           I'm currently a second-year engineering student at the Schulich School
           of Engineering, pursuing a major in Software Engineering and a minor
           in Entrepreneurship and Enterprise Development. Some of my many
-          interests include full-stack development, UI/UX design, business
-          management and bionics/biotechnology. Through the next chapter in my
-          life, I hope to further my contributions to the tech industry. Learn
-          more about my contributions below!
+          interests include bionics/biotechnology, full-stack development, UI/UX
+          design and business management. Through the next chapter in my life, I
+          hope to further my contributions to the tech industry. Learn more
+          about my contributions below!
         </p>
         <div className="about-rows">
           <p className="about-link">resume</p>
