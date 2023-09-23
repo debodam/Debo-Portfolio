@@ -1,0 +1,108 @@
+.hero {
+  position: relative;
+  height: 80vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.hero::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: url("../../assets/hero_pic.jpg") center center/cover no-repeat;
+  filter: blur(8px); /* Apply the blur effect to the background image */
+  z-index: -1;
+}
+
+.hero-content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  z-index: 1; /* Place the content above the blurred background */
+}
+
+.hero-content h1 {
+  font-family: var(--font-family3);
+  font-weight: 800;
+  font-size: 110px;
+  line-height: 100px;
+  text-transform: uppercase;
+  color: #fff;
+  font-weight: bolder;
+  text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.5);
+  /* animation: glow 0.5s infinite alternate; */
+}
+
+@keyframes glow {
+  100% {
+    text-shadow: 0 0 1px #fff, 0 0 3px #fff, 0 0 5px #fff,
+      0 0 10px rgba(4, 102, 147, 0.2), 0 0 20px rgba(4, 102, 147, 0.2),
+      0 0 22px rgba(4, 102, 147, 0.2), 0 0 25px rgba(4, 102, 147, 0.2),
+      0 0 37px rgba(4, 102, 147, 0.2);
+  }
+  0% {
+    text-shadow: 0 0 1px #fff, 0 0 2px #fff, 0 0 4px #fff,
+      0 0 9px rgba(4, 102, 147, 0.2), 0 0 18px rgba(4, 102, 147, 0.2),
+      0 0 20px rgba(4, 102, 147, 0.2), 0 0 23px rgba(4, 102, 147, 0.2),
+      0 0 35px rgba(4, 102, 147, 0.2);
+  }
+}
+
+.hero-content p {
+  font-family: var(--font-family2);
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 40px;
+  text-transform: uppercase;
+  color: var(--color-text);
+  margin-top: 3rem;
+  outline: 10;
+  font-weight: bolder;
+  text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.5);
+  /* animation: glow 0.5s infinite alternate; */
+}
+
+.hero-content__input {
+  width: 100%;
+  margin: 2rem 0 1rem;
+  display: flex;
+}
+
+@media screen and (max-width: 1050px) {
+  .hero {
+    flex-direction: column;
+  }
+
+  .hero-content {
+    margin: 0 0 2rem;
+  }
+}
+
+@media screen and (max-width: 650px) {
+  .hero h1 {
+    font-size: 48px;
+    line-height: 60px;
+  }
+
+  .hero p {
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media screen and (max-width: 490px) {
+  .hero h1 {
+    font-size: 36px;
+    line-height: 48px;
+  }
+
+  .hero p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+}

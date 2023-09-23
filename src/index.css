@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@500&family=Open+Sans&display=swap");
+
+:root {
+  --font-family: "Manrope", sans-serif;
+  --font-family2: "Open Sans", sans-serif;
+  --font-family3: "Arimo", sans-serif;
+
+  --gradient-text: linear-gradient(89.97deg, #004bff 48%, #f7f7f7 60%);
+  --gradient-text2: linear-gradient(89.97deg, #f7f7f7 30%, #004bff 60%);
+  --gradient-text3: linear-gradient(103.22deg, #5700b4 -13.86%, #9e3700 99.55%);
+  --gradient-text4: linear-gradient(89.97deg, #f7f7f7 51.15%, #004bff 51.65%);
+  --gradient-text5: linear-gradient(89.97deg, #19a7ce 30%, #f7f7f7 60%);
+
+  --color-second: #a5becc;
+  --color-third: #243a73;
+  --color-text: #ffffff;
+
+  --color-bg: #000000;
+}
