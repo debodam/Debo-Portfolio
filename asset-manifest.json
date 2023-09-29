@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Debodam.github.io/static/css/main.e65496d7.css",
-    "main.js": "/Debodam.github.io/static/js/main.83e451cd.js",
-    "static/media/Proj3.png": "/Debodam.github.io/static/media/Proj3.fab91f820410afd58374.png",
-    "static/media/hero_pic.jpg": "/Debodam.github.io/static/media/hero_pic.ed63373ae799bfeea07f.jpg",
-    "static/media/Proj4.png": "/Debodam.github.io/static/media/Proj4.a98491ae344ed4de2c99.png",
-    "static/media/Proj5.png": "/Debodam.github.io/static/media/Proj5.8cef8d6f7fb9188ffb0c.png",
-    "static/media/Proj1.png": "/Debodam.github.io/static/media/Proj1.85e2030b76a5aaf15c4e.png",
-    "static/media/Proj2.jpg": "/Debodam.github.io/static/media/Proj2.b5f0a43d198d5d2c27d1.jpg",
-    "static/media/Proj6.jpg": "/Debodam.github.io/static/media/Proj6.ecfa84805fd671e6e836.jpg",
-    "index.html": "/Debodam.github.io/index.html",
-    "main.e65496d7.css.map": "/Debodam.github.io/static/css/main.e65496d7.css.map",
-    "main.83e451cd.js.map": "/Debodam.github.io/static/js/main.83e451cd.js.map"
+    "main.css": "/static/css/main.b98b5253.css",
+    "main.js": "/static/js/main.a361c812.js",
+    "static/media/Proj3.png": "/static/media/Proj3.fab91f820410afd58374.png",
+    "static/media/Proj4.png": "/static/media/Proj4.a98491ae344ed4de2c99.png",
+    "static/media/Proj5.png": "/static/media/Proj5.8cef8d6f7fb9188ffb0c.png",
+    "static/media/cool-background.jpg": "/static/media/cool-background.29d0316c9b1c51729447.jpg",
+    "static/media/Proj1.png": "/static/media/Proj1.85e2030b76a5aaf15c4e.png",
+    "static/media/Proj2.jpg": "/static/media/Proj2.b5f0a43d198d5d2c27d1.jpg",
+    "static/media/Proj6.jpg": "/static/media/Proj6.ecfa84805fd671e6e836.jpg",
+    "index.html": "/index.html",
+    "main.b98b5253.css.map": "/static/css/main.b98b5253.css.map",
+    "main.a361c812.js.map": "/static/js/main.a361c812.js.map"
   },
   "entrypoints": [
-    "static/css/main.e65496d7.css",
-    "static/js/main.83e451cd.js"
+    "static/css/main.b98b5253.css",
+    "static/js/main.a361c812.js"
   ]
 }
