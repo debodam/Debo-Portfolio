@@ -12,7 +12,8 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: url("../../assets/hero_pic.jpg") center center/cover no-repeat;
+  background: url("../../assets/cool-background.jpg") center center/cover
+    no-repeat;
   filter: blur(8px); /* Apply the blur effect to the background image */
   z-index: -1;
 }
