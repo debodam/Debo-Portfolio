@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/Debodam.github.io/static/css/main.e65496d7.css",
-    "main.js": "/Debodam.github.io/static/js/main.83e451cd.js",
-    "static/media/Proj3.png": "/Debodam.github.io/static/media/Proj3.fab91f820410afd58374.png",
-    "static/media/hero_pic.jpg": "/Debodam.github.io/static/media/hero_pic.ed63373ae799bfeea07f.jpg",
-    "static/media/Proj4.png": "/Debodam.github.io/static/media/Proj4.a98491ae344ed4de2c99.png",
-    "static/media/Proj5.png": "/Debodam.github.io/static/media/Proj5.8cef8d6f7fb9188ffb0c.png",
-    "static/media/Proj1.png": "/Debodam.github.io/static/media/Proj1.85e2030b76a5aaf15c4e.png",
-    "static/media/Proj2.jpg": "/Debodam.github.io/static/media/Proj2.b5f0a43d198d5d2c27d1.jpg",
-    "static/media/Proj6.jpg": "/Debodam.github.io/static/media/Proj6.ecfa84805fd671e6e836.jpg",
-    "index.html": "/Debodam.github.io/index.html",
-    "main.e65496d7.css.map": "/Debodam.github.io/static/css/main.e65496d7.css.map",
-    "main.83e451cd.js.map": "/Debodam.github.io/static/js/main.83e451cd.js.map"
+    "main.css": "/Debo-Portfolio/static/css/main.bdd66b3d.css",
+    "main.js": "/Debo-Portfolio/static/js/main.bda3176b.js",
+    "static/media/Proj3.png": "/Debo-Portfolio/static/media/Proj3.fab91f820410afd58374.png",
+    "static/media/hero_pic.jpg": "/Debo-Portfolio/static/media/hero_pic.ed63373ae799bfeea07f.jpg",
+    "static/media/Proj4.png": "/Debo-Portfolio/static/media/Proj4.a98491ae344ed4de2c99.png",
+    "static/media/Proj5.png": "/Debo-Portfolio/static/media/Proj5.8cef8d6f7fb9188ffb0c.png",
+    "static/media/Proj1.png": "/Debo-Portfolio/static/media/Proj1.85e2030b76a5aaf15c4e.png",
+    "static/media/Proj2.jpg": "/Debo-Portfolio/static/media/Proj2.b5f0a43d198d5d2c27d1.jpg",
+    "static/media/Proj6.jpg": "/Debo-Portfolio/static/media/Proj6.ecfa84805fd671e6e836.jpg",
+    "index.html": "/Debo-Portfolio/index.html",
+    "main.bdd66b3d.css.map": "/Debo-Portfolio/static/css/main.bdd66b3d.css.map",
+    "main.bda3176b.js.map": "/Debo-Portfolio/static/js/main.bda3176b.js.map"
   },
-  "entrypoints": ["static/css/main.e65496d7.css", "static/js/main.83e451cd.js"]
+  "entrypoints": [
+    "static/css/main.bdd66b3d.css",
+    "static/js/main.bda3176b.js"
+  ]
 }
