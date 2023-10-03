@@ -18,10 +18,10 @@ export const ProjectList = [
     name: "Bionic Helper App",
     image: Proj3,
   },
-  // {
-  //   name: "Tech Start Project",
-  //   image: Proj4,
-  // },
+  {
+    name: "Tech Start Project",
+    image: Proj4,
+  },
   {
     name: "Mission Medical Clinic Website",
     image: Proj5,
