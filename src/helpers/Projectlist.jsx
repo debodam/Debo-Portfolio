@@ -19,7 +19,7 @@ export const ProjectList = [
     image: Proj3,
   },
   {
-    name: "Tech Start Project",
+    name: "Potential Tech Start Project",
     image: Proj4,
   },
   {
