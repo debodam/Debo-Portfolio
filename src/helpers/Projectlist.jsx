@@ -14,10 +14,10 @@ export const ProjectList = [
     name: "Myoelectric Prosthesis (Arm)",
     image: Proj2,
   },
-  // {
-  //   name: "Fantasy Basketball Chatbot",
-  //   image: Proj3,
-  // },
+  {
+    name: "Bionic Helper App",
+    image: Proj3,
+  },
   // {
   //   name: "Tech Start Project",
   //   image: Proj4,
