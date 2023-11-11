@@ -16,6 +16,7 @@
     no-repeat;
   filter: blur(8px); /* Apply the blur effect to the background image */
   z-index: -1;
+  overflow: hidden;
 }
 
 .hero-content {
